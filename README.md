@@ -1,7 +1,6 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://Sourav1707.io)
 <h1 align="center">Hi 👋, I'm Satyajeet Patil</h1>
 <h3 align="center">A passionate Data Analyst/Scientist from India</h3>
-
-<img align="right" alt="coding" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3lrbE45bmEwTzVmTzFNekZoLVlIVE9mcDVjQXxBQ3Jtc0ttUFYzbkZzU1JiY0xOb0EtcGdaenB3aUVybDNkSkg1Q3ZLWDhwZWlTa3kyTndsYU8yaW9nRTU4MDVUV3pwNEtPYkhkYzR1SmxBcm4wN1RvZ29SRVRtZHA0bVI5MVJHYzhLSVdHeUtILW9Lb0UxVEJyWQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav1707&label=Profile%20views&color=0e75b6&style=flat" alt="sourav1707" /> </p>
 
